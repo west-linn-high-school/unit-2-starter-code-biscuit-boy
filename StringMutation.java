@@ -11,7 +11,7 @@ public class StringMutation
 {
     public static void main(String[] args)
     {
-        String phrase= new String("Change is inevitable");
+       String phrase = new String("Change is inevitable");
         
        String mut1, mut2, mut3, mut4;
        
